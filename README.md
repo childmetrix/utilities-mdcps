@@ -2,6 +2,8 @@
 
 Mississippi (MDCPS) specific R utilities for ChildMetrix projects.
 
+**Repository**: [github.com/childmetrix/utilities-mdcps](https://github.com/childmetrix/utilities-mdcps)
+
 ## Contents
 
 ### Functions (`/functions`)
